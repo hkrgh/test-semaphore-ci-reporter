@@ -1,0 +1,22 @@
+{
+  "name": "test-semaphore-ci-reporter",
+  "version": "1.0.0",
+  "description": "A test repository for `semaphore-ci-reporter`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hkrgh/test-semaphore-ci-reporter.git"
+  },
+  "author": "HKRGH",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hkrgh/test-semaphore-ci-reporter/issues"
+  },
+  "homepage": "https://github.com/hkrgh/test-semaphore-ci-reporter#readme",
+  "dependencies": {
+    "jest": "^23.1.0"
+  }
+}
